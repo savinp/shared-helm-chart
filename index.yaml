@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  shared-helm:
+  - apiVersion: v2
+    created: "2025-01-02T21:22:45.276560473Z"
+    description: A shared Helm chart for reusable templates
+    digest: 837c9768a1bc6879737c73e1741cd550ddf625acf089e85458f41d8312b054c2
+    name: shared-helm
+    type: library
+    urls:
+    - https://github.com/savinp/shared-helm-chart/shared-helm-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-01-02T21:22:45.275884882Z"
