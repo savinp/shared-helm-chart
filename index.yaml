@@ -8,6 +8,6 @@ entries:
     name: shared-helm
     type: library
     urls:
-    - https://github.com/savinp/shared-helm-chart/shared-helm-1.0.0.tgz
+    - https://github.com/savinp/shared-helm-chart/raw/main/shared-helm-1.0.0.tgz
     version: 1.0.0
 generated: "2025-01-02T21:22:45.275884882Z"
