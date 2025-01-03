@@ -2,4 +2,4 @@ apiVersion: v2
 name: shared-helm
 version: 1.0.0
 description: A shared Helm chart for reusable templates
-type: library
+#type: library
