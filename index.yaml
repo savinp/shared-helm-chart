@@ -10,17 +10,17 @@ entries:
     urls:
     - https://github.com/savinp/shared-helm-chart/raw/main/shared-helm-1.0.0.tgz
     version: 1.0.0
-  wordpress:
-  - apiVersion: v2
-    created: "2025-01-04T04:20:52.618380491Z"
-    description: A shared Helm chart for reusable templates
-    digest: fb3d8309eec59ea2639daa7cca27a4463d6e3cdf1acb9d138b8656d316c76c98
-    name: wordpress
-    type: library
-    urls:
-    - https://github.com/savinp/shared-helm-chart/raw/main/wordpress-9.0.3.tgz
-    version: 9.0.3
-generated: "2025-01-04T04:20:52.607721157Z"
+#  wordpress:
+#  - apiVersion: v2
+#    created: "2025-01-04T04:20:52.618380491Z"
+#    description: A shared Helm chart for reusable templates
+#    digest: fb3d8309eec59ea2639daa7cca27a4463d6e3cdf1acb9d138b8656d316c76c98
+#    name: wordpress
+#    type: library
+#    urls:
+#    - https://github.com/savinp/shared-helm-chart/raw/main/wordpress-9.0.3.tgz
+#    version: 9.0.3
+#generated: "2025-01-04T04:20:52.607721157Z"
 
   wordpress:
   - apiVersion: v1
