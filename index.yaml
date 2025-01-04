@@ -2,12 +2,22 @@ apiVersion: v1
 entries:
   shared-helm:
   - apiVersion: v2
-    created: "2025-01-03T03:41:19.069711058Z"
+    created: "2025-01-04T04:20:52.613682912Z"
     description: A shared Helm chart for reusable templates
-    digest: 1f24ec44047e62f0711ba1dd12f3bce41adb9ec79c99a4613237895729ed4a5c
+    digest: d7246ea90a601423e76d69c026bf42341c2b83ee61b138b41c6c98f9c6265359
     name: shared-helm
     type: library
     urls:
     - https://github.com/savinp/shared-helm-chart/raw/main/shared-helm-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-03T03:41:19.067176566Z"
+  wordpress:
+  - apiVersion: v2
+    created: "2025-01-04T04:20:52.618380491Z"
+    description: A shared Helm chart for reusable templates
+    digest: fb3d8309eec59ea2639daa7cca27a4463d6e3cdf1acb9d138b8656d316c76c98
+    name: wordpress
+    type: library
+    urls:
+    - https://github.com/savinp/shared-helm-chart/raw/main/wordpress-9.0.3.tgz
+    version: 9.0.3
+generated: "2025-01-04T04:20:52.607721157Z"

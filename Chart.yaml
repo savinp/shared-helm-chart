@@ -3,3 +3,8 @@ name: shared-helm
 version: 1.0.0
 description: A shared Helm chart for reusable templates
 type: library
+name: wordpress
+version: 9.0.3
+description: A shared Helm chart for reusable templates
+type: library
+
