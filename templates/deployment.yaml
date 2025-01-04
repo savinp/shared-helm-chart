@@ -1,4 +1,3 @@
-{{- define "shared-helm-chart.deployment" -}}
 apiVersion: apps/v1
 kind: Deployment
 metadata:
